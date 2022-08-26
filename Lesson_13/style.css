@@ -1,0 +1,10 @@
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    }
+    .item {
+    width: 25%;
+    }
+    .item img {
+    width: 100%;
+    }
